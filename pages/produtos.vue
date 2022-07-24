@@ -17,6 +17,7 @@
 <script>
   export default {
     name: '',
+  middleware: 'auth',
     data() {
       return {
 
